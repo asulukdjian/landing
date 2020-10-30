@@ -20,3 +20,12 @@ a {
 }
 
 /* Custom design below! */
+@import url(components/banner.css);
+@import url(components/buttons.css);
+@import url(components/cards.css);
+@import url(components/container.css);
+@import url(components/footer.css);
+
+.text-center {
+  text-align: center;
+}

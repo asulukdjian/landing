@@ -19,3 +19,13 @@
   background: #6AD58B;
   transition: background 0.3s ease;
 }
+
+.banner h1 {
+  color: white;
+}
+
+.banner p {
+  color: white;
+  opacity: .7;
+  font-size: 20px;
+}
